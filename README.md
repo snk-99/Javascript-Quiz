@@ -15,3 +15,16 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
 ## Acceptance Criteria
+# Main elements:
+
+ * Intro section with instructions.
+ * Questions display with answers displaying in random order.
+ * A timer, the subtracts 10 seconds for every question you get wrong
+ * Highscores sortered and registered with localStorage.
+
+
+## screenshot
+<img width="1440" alt="Screen Shot 2021-05-15 at 8 34 33 PM" src="https://user-images.githubusercontent.com/81891066/118381844-4706b380-b5bd-11eb-8ed7-63921c9ccd9f.png">
+
+## link 
+https://snk-99.github.io/Javascript-Quiz/
